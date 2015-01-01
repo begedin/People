@@ -37,3 +37,11 @@ Happy building games!
 [node]:       http://nodejs.org/
 [gulp]:       http://gulpjs.com/
 [Traceur]:    https://github.com/google/traceur-compiler
+
+# Pushing to gh-pages
+
+```
+gulp build
+// commit and push to master/current branch
+git subtree push --prefix origin gh-pages
+```
