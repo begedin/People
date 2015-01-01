@@ -1,0 +1,12 @@
+{
+  "name": "people",
+  "version": "0.0.1",
+  "description": "An attempt at a 4x game",
+  "authors": [
+    ""
+  ],
+  "dependencies": {
+    "phaser-official": "latest",
+    "traceur-runtime": "latest"
+  }
+}
